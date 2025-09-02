@@ -1,5 +1,5 @@
 # MLLabA2
-Exp2 - Loan Amount Prediction using Linear Regression
+Exp2 - Loan Amount Prediction using Linear Regression and SVM
 
 ## Libraries Used
 - numpy
